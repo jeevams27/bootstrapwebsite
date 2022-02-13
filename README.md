@@ -508,8 +508,10 @@ Publish the website in the given URL.
 
 ![](./CONTACT.jpg)
 
-### Home Page:
 
 
 ## Result:
+
+Thus a website is designed using bootstrap framework.
+
 
